@@ -1,4 +1,8 @@
 {
+  "name": "cypress-jenkins-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cypress automation test with Jenkins CI pipeline",
   "scripts": {
     "cy:open": "cypress open",
     "cy:run": "cypress run"
@@ -7,8 +11,3 @@
     "cypress": "^13.6.0"
   }
 }
-
-
-
-
-
